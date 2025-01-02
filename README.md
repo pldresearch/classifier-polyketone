@@ -1,5 +1,5 @@
 # classifier-polyketone
-Jupyter notebook files for polyketone classifier project
+This repository contains the relevant files to train the binary classifier and plot decision boundaries for the catalyst designs. 
 
 Please cite this paper as:
 [....]
