@@ -11,4 +11,4 @@ This repository contains the relevant files to train the binary classifier and p
 Please cite this paper as:
 [....]
 
-If there are questions or issues with running the code, or if you need additional files, please contact pld@chem.ucla.edu
+If there are questions or issues with running the code, or if you need additional files, please contact georgewong98@g.ucla.edu
